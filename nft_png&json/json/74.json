@@ -1,0 +1,16 @@
+{
+    "name": "#74",
+    "image": "ipfs://QmR5aj1mDf5y973SDQYT23MbQQWEVzQGGqhgNQnyhwcSYN/74.png",
+    "description": "This NFT collection is created by WINCAN",
+    "external_url": "http://wincan.choice-client2252.com/",
+    "attributes": [
+        {
+            "trait_type": "number",
+            "value": "74"
+        },
+        {
+            "trait_type": "creator",
+            "value": "WINCAN"
+        }
+    ]
+}
